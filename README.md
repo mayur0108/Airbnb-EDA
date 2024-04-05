@@ -23,3 +23,4 @@ This analysis not only highlights the intricacies of the Airbnb market but also 
 
 #DataAnalysis #Airbnb #SharingEconomy #TravelTrends #Insights #RealEstate
 
+Data Link: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/data
